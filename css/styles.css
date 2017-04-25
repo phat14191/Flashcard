@@ -1,0 +1,23 @@
+#jss {
+  display: none;
+}
+
+#Fs {
+  display: none;
+}
+.clickable:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2:hover {
+    cursor: pointer;
+    color: blue;
+  }
+
+.clickable2:hover {
+    text-decoration: underline;
